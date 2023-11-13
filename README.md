@@ -88,8 +88,10 @@ Este projeto foi desenvolvido com base em projetos relacionados ao tema disponí
 Alguns dos projetos do Kaggle que inspiraram e contribuíram para este trabalho incluem:
 
 - [Deep Learning for Text Classification](https://www.kaggle.com/code/carlosaguayo/deep-learning-for-text-classification/notebook)
-- [Fake News detection Deep Learning Approach](https://www.kaggle.com/code/mdtamzidulislam/fake-news-detection-deep-learning-approach)
+- [Fake News Prediction using LogisticRegression
+](https://www.kaggle.com/code/yahyasoker/fake-news-prediction-using-logisticregression)
 - [Fake News Classifier with Deep Learning Embedding](https://www.kaggle.com/code/hassanamin/fake-news-classifier-with-deep-learning-embedding)
+- [Fake News Classifier](https://www.kaggle.com/code/abdelruhmanessam/fake-news-classifier)
 
 Agradecemos a todos os criadores e colaboradores desses projetos por compartilharem seu conhecimento e recursos.
 
