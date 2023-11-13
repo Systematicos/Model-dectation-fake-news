@@ -12,8 +12,11 @@ Agradecemos por utilizar este projeto. Se tiver alguma dúvida ou feedback, sint
 
 ## Motivação
 
-A motivação por trás do desenvolvimento deste projeto é enfrentar o desafio crescente das notícias falsas na era digital...
+A motivação por trás do desenvolvimento deste projeto é enfrentar o desafio crescente das notícias falsas na era digital. Com a proliferação de informações online, tornou-se crucial desenvolver ferramentas capazes de discernir entre notícias autênticas e falsas.
 
+Este projeto foi concebido como parte do Trabalho de Conclusão de Curso (TCC), buscando contribuir para a mitigação do impacto das fake news. A necessidade de uma abordagem eficaz para a detecção de notícias falsas é vital não apenas para a integridade da informação, mas também para promover uma sociedade mais informada e consciente.
+
+Ao desenvolver modelos de aprendizado de máquina, como o HAN (Redes Hierárquicas de Atenção), MLP (Perceptron Multicamadas) e Camadas Bidirecionais de LSTM, este projeto visa fornecer uma ferramenta robusta e eficaz para a detecção de notícias falsas, contribuindo para um ambiente online mais confiável.
 ## Descrição
 
 O objetivo deste projeto é fornecer uma ferramenta simples e eficaz para detectar notícias falsas usando modelos de aprendizado de máquina. A detecção de notícias falsas é uma tarefa desafiadora, e este projeto visa abordar esse problema de maneira acessível e eficiente.
